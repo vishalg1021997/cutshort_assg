@@ -4,6 +4,6 @@
 
 ### Assgiment URL : https://dribbble.com/shots/15669113-Onboarding-Exploratio
 
-## Assgiment is uploaded on 
+## Assgiment is uploaded on Netlify
 
 ### Assgiment URL : https://eden-onboarding-cutshort.netlify.app/
