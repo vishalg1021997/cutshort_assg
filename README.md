@@ -16,10 +16,12 @@
 *React is a free and open-source front-end JavaScript library for building user interfaces based on UI components*
 
 **2. Who made React?**
+
 *React was originally created by Jordan Walke and It is maintained by Meta(Facebook)*
 
 **3. What is Babel?**
-* Babel is a JavaScript transpiler, meaning it converts a newer version of ECMAScript, such as ES9, to a standard version (ES5).
+
+*Babel is a JavaScript transpiler, meaning it converts a newer version of ECMAScript, such as ES9, to a standard version (ES5).
 In React Babel helps to convert JSX code to browser compatiable code*
 
 **4. How does Babel convert html code in React into valid code?**
