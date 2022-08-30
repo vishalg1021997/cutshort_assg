@@ -9,6 +9,6 @@
 ### Assgiment URL : https://eden-onboarding-cutshort.netlify.app/
 
 * *Example* - <pre>let welcome = React.createElement("h1",{ style: { color: "red" } },`Welcome to react world`);
-                                 ReactDOM.render(welcome, document.querySelector("#root"));</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                 ReactDOM.render(welcome, document.querySelector("#root"));</pre>
 
 
