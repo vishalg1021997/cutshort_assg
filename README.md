@@ -12,7 +12,7 @@
 
 
 **1. What is React?**
-* React is a free and open-source front-end JavaScript library for building user interfaces based on UI components 
+*React is a free and open-source front-end JavaScript library for building user interfaces based on UI components*
 
 **2. Who made React?**
 * React was originally created by Jordan Walke and It is maintained by Meta(Facebook)
